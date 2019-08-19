@@ -1,5 +1,6 @@
 package domain;
 
+// test
 public class Wiki {
 	
 	private String title;
