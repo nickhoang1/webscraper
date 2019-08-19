@@ -20,7 +20,7 @@ public class WebScraper {
 	// private static final Logger LOGGER =
 	// LoggerFactory.getLogger(WebScraper.class);
 	// The url of the website. This is just an example
-	static final String webSiteURL = "https://en.wikipedia.org/wiki/Albert_Einstein";
+	static final String webSiteURL = "https://en.wikipedia.org/wiki/Albert_Einstein"; //testing
 
 	// The path of the folder that you want to save the images to
 	static final String folderPath = "c:\\work\\demo";

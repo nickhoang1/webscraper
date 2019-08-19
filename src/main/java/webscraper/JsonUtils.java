@@ -13,7 +13,7 @@ public class JsonUtils {
 	public static String objToJsonStr(Wiki obj) 
 	{ 
 
-		// Creating Object of ObjectMapper define in Jakson Api 
+		// Creating Object of ObjectMapper define in Jakson API
 		ObjectMapper objMapper = new ObjectMapper();
 		
 		String jsonStr = null;
